@@ -1,4 +1,4 @@
-name: cvcourse
+name: opencv-python
 channels:
   - defaults
 dependencies:
